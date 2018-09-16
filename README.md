@@ -1,7 +1,11 @@
 # DanskeBank
 
-This project is the answer to the exercise below:
+This project is the answer to the exercise given below.
 
+The final exercise is implemented in the Exercise1 console application.
+The initial example is implemented in the ExampleTest-test in the Model.Test-project.
+
+## Exercise
 Please write a maintainable solution for the question on page 2, using the rules given below:
 The solution must be written in C#.
 You will be given a triangle input (which is a binary tree) and you need to find the path that provides the maximum possible sum of the numbers per the given rules below:
